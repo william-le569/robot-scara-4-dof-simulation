@@ -1,5 +1,7 @@
 # SCARA Robot Simulation & Kinematics Control (MATLAB)
 
+https://www.youtube.com/watch?v=l_5V8tedO94
+
 Chương trình mô phỏng động học (Kinematics) và quy hoạch quỹ đạo chuyển động cho **Robot SCARA 4 bậc tự do** (4-DOF SCARA Robot) sử dụng ngôn ngữ MATLAB và giao diện đồ họa người dùng (MATLAB GUI).
 
 ## 📋 Mục lục
